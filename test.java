@@ -1,6 +1,6 @@
 class{
 
-int i = 20 ;:
+int i = 20 I:
 
 }
 
